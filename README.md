@@ -3,10 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="" alt="abdullahalmusabbir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahalmusabbir" alt="abdullahalmusabbir" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://abdullahalmusabbir.github.io/PortfolioY/](https://abdullahalmusabbir.github.io/PortfolioY/)
 
 - 📫 How to reach me **sheikhshuvo654987@gmail.com**
