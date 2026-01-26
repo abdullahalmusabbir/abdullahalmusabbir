@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Musabbir</h1>
-<h3 align="center">A passionate ML & DL Developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalmusabbir&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalmusabbir" /> </p>
 
